@@ -2,6 +2,7 @@
   "name": "modutour",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://jeon9897.github.io/modutour2025",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
@@ -34,7 +35,6 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ],
-    "homepage": "/"
+    ]
   }
 }
